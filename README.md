@@ -1,4 +1,4 @@
-# test-zabbix
+# test-zabbix 2
 Задание 1
 
 ![1](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/dc602315-1b5a-41ea-8be4-25701bc20127)
