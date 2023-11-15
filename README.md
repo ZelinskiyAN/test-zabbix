@@ -8,5 +8,9 @@
 Задание 3
 
 ![2](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/9c6125a6-3cf5-42ee-b4b7-8d987fe91701)
+![3](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/6a7c4636-d802-458f-a8fc-ffb6600390ad)
 
-![3](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/0e2280f7-403c-4f0a-a31f-3de7f1b85304)
+
+Задание 4
+
+![4](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/86cf515d-53bd-436e-bde0-8489b73c0d1b)
