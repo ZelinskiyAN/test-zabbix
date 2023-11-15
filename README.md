@@ -13,4 +13,5 @@
 
 Задание 4
 
-![4](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/86cf515d-53bd-436e-bde0-8489b73c0d1b)
+
+![4](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/89f1238b-b866-41d9-a4b9-e5e63fd30205)
