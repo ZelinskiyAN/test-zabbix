@@ -1,4 +1,4 @@
-# test-zabbix 2
+# Домашнее задание к занятию 1 «Disaster recovery и Keepalived»
 Задание 1
 
 ![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/35bfed12-96cd-4808-a627-aba8ca6edf8e)
