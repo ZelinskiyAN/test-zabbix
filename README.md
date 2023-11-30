@@ -1,4 +1,5 @@
 # test-zabbix 2
+Задание 1
 
 ![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/35bfed12-96cd-4808-a627-aba8ca6edf8e)
 ![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/c452a519-1b27-4faf-98db-a4ae7ac66525)
