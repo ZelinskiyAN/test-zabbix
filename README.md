@@ -15,4 +15,5 @@
 ![5](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/85c2708e-cf45-4022-8aa5-5e77fabd5dc7)
 ![6](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/88dfa4a6-76c0-4d50-b9aa-cf2eeba51153)
 ![7](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/3d456057-7676-4607-b32d-e853e563345d)
+
 ![8](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/fecaaf20-2839-4cf0-978a-fb70fdc13a58)
