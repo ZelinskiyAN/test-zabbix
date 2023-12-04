@@ -12,3 +12,14 @@
 
 Задание 2
 
+![1](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/2ed2543e-57cf-4a06-a8b5-a9e2cc75bbe8)
+
+![2](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/e0370ac3-9d37-4074-9c33-a529600219b2)
+
+![5](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/234b4d92-1038-4ecc-b26a-913d1a791f59)
+
+![6](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/8de40ea5-4085-4fcb-a562-92b66c16e78b)
+
+![7](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/f2c5eb78-9a9d-47ed-86fd-6f3acf845720)
+
+![9](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/683ea87e-a189-437d-bf98-fdd779aea6c5)
