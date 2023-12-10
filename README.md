@@ -1,27 +1,16 @@
-# Домашнее задание к занятию 1 «Disaster recovery и Keepalived»
+# Домашнее задание "Резервное копирование"
 Задание 1
 
-![1](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/3f58fb96-2f77-4b6c-b424-bd39a3971013)
-
-![2](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/dd87e054-40d7-4301-9656-68b27d6046a4)
-
-![3](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/b7205798-62ab-4c04-9311-070c40cb56d0)
-
-![4](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/b5478e0b-24ee-44df-a3e7-c397ede56170)
-
+![1](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/bd63755f-2b5f-476d-8ac2-a283fba632ac)
 
 Задание 2
 
-![1](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/2ed2543e-57cf-4a06-a8b5-a9e2cc75bbe8)
+![2](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/98b8277d-a127-4c30-93a9-bc92066b6bd3)
 
-![2](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/e0370ac3-9d37-4074-9c33-a529600219b2)
+![2 1](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/dfb4b75d-b271-49d5-8e75-257b8e36538c)
 
-![5](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/234b4d92-1038-4ecc-b26a-913d1a791f59)
 
-![6](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/8de40ea5-4085-4fcb-a562-92b66c16e78b)
+![2 2](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/4f58e2b0-2ab1-4268-9445-6bb9b5741e11)
 
-![7](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/f2c5eb78-9a9d-47ed-86fd-6f3acf845720)
 
-![9](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/683ea87e-a189-437d-bf98-fdd779aea6c5)
-
-![10](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/4674e8b2-4e0f-4ad3-88e6-af03945f0d98)
+![2 3](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/341a3d17-0070-46ec-80d7-c27760a22694)
