@@ -12,3 +12,14 @@
 
 ---
 
+### Задание 2. Memcached
+
+Установите и запустите memcached.
+
+*Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
+
+![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/0cd1b158-3913-4ad9-8a18-2834cde6d357)
+
+
+---
+
