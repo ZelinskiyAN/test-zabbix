@@ -31,3 +31,14 @@
 
 
 ![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/87879531-f2ae-4872-bb31-e4b04435743c)
+
+
+### Задание 4. Запись данных в Redis
+
+Запишите в Redis несколько ключей с любыми именами и значениями. 
+
+*Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
+
+
+![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/765fd755-f2bd-4573-b97c-329d40b17e76)
+
