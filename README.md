@@ -6,7 +6,7 @@
 
 ---
 
-### Задание 2. Задание 2. Kibana
+### Задание 2. Kibana
 
 ![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/966d4093-a7d1-4884-b7e2-1a174d26c757)
 
