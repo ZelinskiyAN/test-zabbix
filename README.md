@@ -14,3 +14,11 @@
 
 ### Задание 3. Logstash
 
+![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/c503d92b-405b-45d7-a52a-41c61fe9fde2)
+
+
+![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/84cf3ca1-215f-4219-96a1-d5df26231dc8)
+
+
+### Задание 4 Filebeat
+
