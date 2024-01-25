@@ -19,6 +19,8 @@
 
 ![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/84cf3ca1-215f-4219-96a1-d5df26231dc8)
 
+---
 
 ### Задание 4 Filebeat
 
+![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/49d6829c-12ba-4f92-9733-4c5b617013d9)
