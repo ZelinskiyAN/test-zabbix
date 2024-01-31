@@ -8,3 +8,11 @@
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
 
+![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/1f51208b-10fc-422f-b426-f651ca4cbb2f)
+
+1.4. Дайте все права для пользователя sys_temp.
+
+1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
+
+![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/222a0398-b307-44e8-963e-8f7f1b7057d9)
+
