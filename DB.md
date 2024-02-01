@@ -16,3 +16,5 @@
 
 ![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/222a0398-b307-44e8-963e-8f7f1b7057d9)
 
+![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/b6317d2e-7a09-4367-8c9b-ac3287de7281)
+
