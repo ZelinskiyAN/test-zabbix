@@ -25,9 +25,11 @@ HAVING COUNT(c.store_id) > 300;
 
 Получите количество фильмов, продолжительность которых больше средней продолжительности всех фильмов.
 
+```SQL
 SELECT (SELECT  AVG(`length`) from film) AS Average, (SELECT COUNT(1) from film) AS 'All films', COUNT(1) AS 'Long Films'
 FROM film 
 WHERE `length` > (SELECT AVG(`length`) from film) ;
+```
 
 ![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/bdc513a3-ce92-4b9f-ad90-9b83b66a7216)
 
