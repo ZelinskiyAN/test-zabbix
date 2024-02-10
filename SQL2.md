@@ -8,6 +8,7 @@
 город нахождения магазина;
 количество пользователей, закреплённых в этом магазине.
 
+```SQL
 SELECT CONCAT(s2.first_name, ' ', s2.last_name) AS Name, a.address AS Address, COUNT(c.store_id) AS Customers
 FROM store s 
 JOIN customer c ON s.store_id = c.store_id 
@@ -15,6 +16,7 @@ JOIN staff s2 ON s.manager_staff_id = s2.staff_id
 JOIN address a ON s.address_id = a.address_id 
 GROUP BY c.store_id 
 HAVING COUNT(c.store_id) > 300;
+```
 
 ![image](https://github.com/ZelinskiyAN/test-zabbix/assets/149052655/193d3aa4-1c46-4fb6-a4e7-f1216c82f52b)
 
